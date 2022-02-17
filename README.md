@@ -5,5 +5,6 @@ scripts and configuration files for my standard setup for development
 - [ ] Solarized color schemes
 - [ ] bashrc/profile `set -o vi`
 - [ ] bash prompt
+- [ ] iTerm
 ### vim
 - [ ] pathogen
