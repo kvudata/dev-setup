@@ -8,3 +8,7 @@ scripts and configuration files for my standard setup for development
 - [ ] iTerm
 ### vim
 - [ ] pathogen
+### PyCharm
+- plugins:
+  - Rainbow Brackets
+  - IdeaVim
