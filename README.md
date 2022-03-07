@@ -13,3 +13,4 @@ scripts and configuration files for my standard setup for development
 - plugins:
   - Rainbow Brackets
   - IdeaVim
+- continuation indent set to 4 spaces
