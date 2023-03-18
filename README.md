@@ -16,3 +16,5 @@ scripts and configuration files for my standard setup for development
   - Rainbow Brackets
   - IdeaVim
 - continuation indent set to 4 spaces
+
+another test edit
