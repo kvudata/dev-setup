@@ -16,3 +16,4 @@ scripts and configuration files for my standard setup for development
   - Rainbow Brackets
   - IdeaVim
 - continuation indent set to 4 spaces
+- https://youtrack.jetbrains.com/issue/IDEA-210461/Sometimes-Escape-should-not-switch-from-the-Terminal-tool-window-to-the-editor
