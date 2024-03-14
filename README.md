@@ -18,3 +18,4 @@ scripts and configuration files for my standard setup for development
 - continuation indent set to 4 spaces
 - https://youtrack.jetbrains.com/issue/IDEA-210461/Sometimes-Escape-should-not-switch-from-the-Terminal-tool-window-to-the-editor
 - run black on save: https://www.jetbrains.com/help/pycharm/reformat-and-rearrange-code.html
+- disable mac keyboard shortcut under Services -> Text -> "Search man Page index in Terminal" (cmd+shift+A)
